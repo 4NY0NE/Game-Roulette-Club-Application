@@ -5,7 +5,7 @@
 #      / /_| || . ` |  \ /  | | | || . ` ||  __|
 #      \___  || |\  |  | |  \ \_/ /| |\  || |___
 #          |_/\_| \_/  \_/   \___/ \_| \_/\____/
-#     Follow me on github: https://github.com/4NYONEx                                    
+#     Follow me on github: https://github.com/4NY0NE                                    
 # ======================================================#
 
 import sys
