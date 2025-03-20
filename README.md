@@ -27,6 +27,9 @@ pip install PyQt6
 - Customize Appearance: Easily update the interface's color settings (both for buttons and text) using the provided color pickers.
 - Save and Restore: The state of your game roulettes is automatically saved using QSettings, so your data remains intact between sessions.
 
+Note: This project had the help of ChatGPT because I'm not very good at creating apps.
+
+
 
 
 # Aplicativo de Roleta de Jogos e Clube 🎰🎮
@@ -57,3 +60,5 @@ pip install PyQt6
 - Escolha uma categoria de roleta que possua jogos suficientes para garantir atribuições únicas para cada jogador.
 - Personalize a Aparência: Atualize facilmente as configurações de cores da interface (tanto para botões quanto para textos) usando os seletores de cores disponíveis.
 - Salve e Restaure: O estado das suas roletas é salvo automaticamente utilizando QSettings, garantindo que seus dados sejam mantidos entre as sessões.
+
+Nota: Esse projeto teve a ajuda do ChatGPT porque não sou muito bom com criação de apps.
